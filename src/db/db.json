@@ -1,0 +1,331 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "12 Portions de Fromage P'tits Fondants 200g Paturages",
+      "price": 10500,
+      "description": "Délicieuses portions de fromage fondant, parfaites pour accompagner vos repas ou à déguster en en-cas.",
+      "category": { "title": "Fromages", "value": "fromages" },
+      "image": "/images/diary/12-portions-de-fromage-p-tits-fondants-200g-paturages.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Boisson au Chocolat en Canette 25cl Cacolac",
+      "price": 3000,
+      "description": "Rafraîchissante boisson au chocolat en canette, idéale pour une pause gourmande.",
+      "category": { "title": "Lait", "value": "lait-ecreme" },
+      "image": "/images/diary/boisson-au-chocolat-en-canette-25cl-cacolac.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Fromage Apéricube Fromage 24 Cubes 125g",
+      "price": 2200,
+      "description": "Délicieux cubes de fromage pour l'apéritif, à partager entre amis ou en famille.",
+      "category": { "title": "Fromages", "value": "fromages" },
+      "image": "/images/diary/fromage-apericube-fromage-24-cubes-125g-.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Fromage Fondu à Tartiner Truffe 200ml",
+      "price": 4500,
+      "description": "Fromage fondu à la délicate saveur de truffe, idéal pour accompagner vos plats ou à tartiner sur du pain frais.",
+      "category": { "title": "Fromages", "value": "fromages" },
+      "image": "/images/diary/fromage-fondu-a-tartiner-truffe-200ml.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Fromage Fondu Nature 200ml",
+      "price": 3500,
+      "description": "Fromage fondu nature, parfait pour agrémenter vos sandwichs ou à utiliser comme base pour vos sauces.",
+      "category": { "title": "Fromages", "value": "fromages" },
+      "image": "/images/diary/fromage-fondu-nature-200ml.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Fromage Fondu Sandwich Huile Végétale 100g",
+      "price": 1800,
+      "description": "Fromage fondu spécialement conçu pour vos sandwichs, à base d'huile végétale.",
+      "category": { "title": "Fromages", "value": "fromages" },
+      "image": "/images/diary/fromage-fondu-sandwich-huile-vegetale-100g.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Fromage La Vache Qui Rit 16 Portions 240g",
+      "price": 5900,
+      "description": "Délicieux fromage à tartiner, idéal pour accompagner vos snacks ou à utiliser dans vos recettes préférées.",
+      "category": { "title": "Fromages", "value": "fromages" },
+      "image": "/images/diary/fromage-la-vache-qui-rit-16-portions-240g.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Fromage La Vache Qui Rit Light 200g",
+      "price": 4800,
+      "description": "Version légère du célèbre fromage La Vache Qui Rit, idéale pour une alimentation équilibrée.",
+      "category": { "title": "Fromages", "value": "fromages" },
+      "image": "/images/diary/fromage-la-vache-qui-rit-light-200g.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Fromage La Vache Qui Rit Pik et Croq 35g",
+      "price": 1200,
+      "description": "Petites portions individuelles de La Vache Qui Rit, pratiques à emporter et à déguster.",
+      "category": { "title": "Fromages", "value": "fromages" },
+      "image": "/images/diary/fromage-la-vache-qui-rit-pik-et-croq-35g.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Fromage Mini Goûter Carré 150g",
+      "price": 2300,
+      "description": "Petits carrés de fromage à emporter partout avec vous, pour une pause gourmande à tout moment de la journée.",
+      "category": { "title": "Fromages", "value": "fromages" },
+      "image": "/images/diary/fromage-mini-gouter-carre-150g.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Fromage Teama Action 8 Portions 133g",
+      "price": 1700,
+      "description": "Fromage en portions individuelles, parfait pour accompagner vos petits-déjeuners ou vos collations.",
+      "category": { "title": "Fromages", "value": "fromages" },
+      "image": "/images/diary/fromage-teama-action-8-portions-133g-.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Lait Chocolat Candy Up 150ml",
+      "price": 1500,
+      "description": "Délicieux lait au chocolat prêt à boire, idéal pour les amateurs de chocolat.",
+      "category": { "title": "Lait", "value": "lait-ecreme" },
+      "image": "/images/diary/lait-chocolat-candy-up-150ml.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Lait Demi-Écrémé Candia 1L",
+      "price": 2500,
+      "description": "Lait demi-écrémé de qualité, idéal pour accompagner vos céréales ou pour une boisson rafraîchissante.",
+      "category": { "title": "Lait", "value": "lait-ecreme" },
+      "image": "/images/diary/lait-demi-ecreme-candia-1l.jpg"
+    },
+
+        {
+          "id": 13,
+          "title": "Lait Chocolat Candy'up 150ml",
+          "price": 1500,
+          "description": "Lait chocolaté Candy'up, parfait pour une pause gourmande.",
+          "category": { "title": "Boissons", "value": "lait-ecreme" },
+          "image": "/images/diary/lait-chocolat-candy-up-150ml.jpg"
+        },
+        {
+          "id": 14,
+          "title": "Lait Demi-Écrémé Candia 1L",
+          "price": 2500,
+          "description": "Lait demi-écrémé Candia en brique, idéal pour toute la famille.",
+          "category": { "title": "Lait", "value": "lait-ecreme" },
+          "image": "/images/diary/lait-demi-ecreme-candia-1l.jpg"
+        },
+        {
+          "id": 15,
+          "title": "Lait de Soja Double Choco Shake 300ml",
+          "price": 3500,
+          "description": "Boisson de soja au double chocolat, pour un plaisir intense.",
+          "category": { "title": "Boissons", "value": "lait-ecreme" },
+          "image": "/images/diary/lait-de-soja-double-choco-shake-300ml.jpg"
+        },
+        {
+          "id": 16,
+          "title": "Lait en Poudre 1kg",
+          "price": 8000,
+          "description": "Lait en poudre de haute qualité, parfait pour vos préparations culinaires.",
+          "category": { "title": "Lait en poudre", "value": "lait-en-poudre" },
+          "image": "/images/diary/lait-en-poudre-1kg-.jpg"
+        },
+        {
+          "id": 17,
+          "title": "Lait en Poudre Entier 250g",
+          "price": 3000,
+          "description": "Lait en poudre entier, idéal pour une consommation rapide et facile.",
+          "category": { "title": "Lait en poudre", "value": "lait-en-poudre" },
+          "image": "/images/diary/lait-en-poudre-entier-250g.jpg"
+        },
+        {
+          "id": 18,
+          "title": "Lait en Poudre Evita 250g",
+          "price": 2800,
+          "description": "Lait en poudre Evita, parfait pour vos recettes et boissons.",
+          "category": { "title": "Lait en poudre", "value": "lait-en-poudre" },
+          "image": "/images/diary/lait-en-poudre-evita-250g.jpg"
+        },
+        {
+          "id": 19,
+          "title": "Lait en Poudre O-Lait 1kg",
+          "price": 7500,
+          "description": "Lait en poudre O-Lait de haute qualité, idéal pour la cuisine.",
+          "category": { "title": "Lait en poudre", "value": "lait-en-poudre" },
+          "image": "/images/diary/lait-en-poudre-o-lait-1-kg.jpg"
+        },
+        {
+          "id": 20,
+          "title": "Lait Entier UHT en Brique 1L",
+          "price": 2600,
+          "description": "Lait entier UHT en brique, idéal pour une consommation quotidienne.",
+          "category": { "title": "Lait", "value": "lait-ecreme" },
+          "image": "/images/diary/lait-entier-uht-en-brique-1l.jpg"
+        },
+        {
+          "id": 21,
+          "title": "Lait Fraise Brique Candy'up 1L",
+          "price": 2700,
+          "description": "Lait aromatisé à la fraise en brique Candy'up, pour une pause gourmande.",
+          "category": { "title": "Boissons", "value": "lait-ecreme" },
+          "image": "/images/diary/lait-fraise-brique-candy-up-1l.jpg"
+        },
+        {
+          "id": 22,
+          "title": "Lait Fraise Candy'up 150ml",
+          "price": 1500,
+          "description": "Lait aromatisé à la fraise Candy'up, pratique et délicieux.",
+          "category": { "title": "Boissons", "value": "lait ecreme" },
+          "image": "/images/diary/lait-fraise-candy-up-150ml.jpg"
+        },
+        {
+          "id": 23,
+          "title": "Lait UHT Demi-Écrémé Bouteille 1L",
+          "price": 2500,
+          "description": "Lait demi-écrémé UHT en bouteille, parfait pour une consommation quotidienne.",
+          "category": { "title": "Lait", "value": "lait-ecreme" },
+          "image": "/images/diary/lait-uht-demi-ecreme-bouteille-1l.jpg"
+        },
+        {
+          "id": 24,
+          "title": "Lait UHT Matin Clair Demi-Écrémé 1L",
+          "price": 2400,
+          "description": "Lait demi-écrémé UHT Matin Clair, idéal pour le petit-déjeuner.",
+          "category": { "title": "Lait", "value": "lait-ecreme" },
+          "image": "/images/diary/lait-uht-matin-clair-demi-ecreme-1l.jpg"
+        },
+        {
+          "id": 25,
+          "title": "Lait Vanille Brique Candy'up 1L",
+          "price": 2700,
+          "description": "Lait aromatisé à la vanille en brique Candy'up, pour un moment de douceur.",
+          "category": { "title": "Boissons", "value": "lait-ecreme" },
+          "image": "/images/diary/lait-vanille-brique-candy-up-1l.jpg"
+        },
+        {
+          "id": 26,
+          "title": "Lait Viva Candia 1L",
+          "price": 2500,
+          "description": "Lait Viva Candia en brique, idéal pour toute la famille.",
+          "category": { "title": "Lait", "value": "lait-ecreme" },
+          "image": "/images/diary/lait-viva-candia-1l.jpg"
+        },
+        {
+          "id": 27,
+          "title": "Le Camembert au Lait Frais 250g",
+          "price": 5000,
+          "description": "Camembert au lait frais, pour une expérience gustative authentique.",
+          "category": { "title": "Fromages", "value": "fromages" },
+          "image": "/images/diary/le-camembert-au-lait-frais-250g.jpg"
+        },
+        {
+          "id": 28,
+          "title": "Vitalait 500g",
+          "price": 3000,
+          "description": "Vitalait, un lait de haute qualité pour une consommation quotidienne.",
+          "category": { "title": "Lait", "value": "lait-ecreme" },
+          "image": "/images/diary/vitalait-500g.jpg"
+        }
+      ]
+ ,
+
+      "categories": [
+    {
+      "title": "Lait ecrémé",
+      "value": "lait-ecreme",
+      "image": "/images/diary/lait-uht-demi-ecreme-bouteille-1l.jpg",
+      "color": "hsl(150 50% 50%)"
+    },
+    {
+      "title": "Lait en poudre",
+      "value": "lait-en-poudre",
+      "image": "/images/diary/lait-en-poudre-1kg-.jpg",
+      "color": "hsl(340 50% 50%)"
+    },
+    {
+      "title": "Fromage",
+      "value": "fromages",
+      "image": "/images/diary/fromage-la-vache-qui-rit-16-portions-240g.jpg",
+      "color": "hsl(310 50% 50%)"
+    }
+
+  ],
+  "sorting": [
+    {
+      "title": "Prix croissant",
+      "value": "price-asc",
+      "isDefault": true
+    },
+    {
+      "title": "Prix décroissant",
+      "value": "price-desc",
+      "isDefault": false
+    }
+  ],
+  "priceRange": [
+      { "title": "Moins de 10000 MGA", "value": "0-10000" },
+      { "title": "10 000 MGA - 50 000 MGA", "value": "10000-50000" },
+      { "title": "Plus de 50 000 MGA", "value": "50000-max" }
+  ],
+  "continents": [
+    {
+      "id": "madagascar",
+      "name": "Madagascar",
+      "regions": [
+        {
+          "id": "analamanga",
+          "name": "Analamanga",
+          "cities": [
+            { "id": "antananarivo", "name": "Antananarivo" },
+            { "id": "ambohidratrimo", "name": "Ambohidratrimo" },
+            { "id": "andohaolo", "name": "Andohaolo" }
+          ]
+        },
+        {
+          "id": "atsinanana",
+          "name": "Atsinanana",
+          "cities": [
+            { "id": "toamasina", "name": "Toamasina" },
+            { "id": "brickaville", "name": "Brickaville" },
+            { "id": "vatomandry", "name": "Vatomandry" }
+          ]
+        },
+        {
+          "id": "alaotra-mangoro",
+          "name": "Alaotra Mangoro",
+          "cities": [
+            { "id": "amboasary-gare", "name": "Amboasary Gare" },
+            { "id": "ambatondrazaka", "name": "Ambatondrazaka" },
+            { "id": "moramanga", "name": "Moramanga" }
+          ]
+        },
+        {
+          "id": "vakinankaratra",
+          "name": "Vakinankaratra",
+          "cities": [
+            { "id": "antsirabe", "name": "Antsirabe" },
+            { "id": "betafo", "name": "Betafo" },
+            { "id": "antsoatany", "name": "Antsoatany" }
+          ]
+        },
+        {
+          "id": "diana",
+          "name": "Diana",
+          "cities": [
+            { "id": "diego-suarez", "name": "Diego Suarez" },
+            { "id": "ambanja", "name": "Ambanja" },
+            { "id": "nosy-be", "name": "Nosy Be" }
+          ]
+        }
+      ]
+
+}
+    ]
+}
